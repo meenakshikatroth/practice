@@ -1,2 +1,3 @@
 # practice
-for practicing
+for practicing 
+git and git hub
